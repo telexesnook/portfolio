@@ -4,7 +4,7 @@
 
 - 氏名：宣慧潤（ソン・ヘユン）
 - 学歴：徳成女子大学 日本語日本文学科 卒業（2017年8月）
-- 教育：SOLDESKにてWeb開発（Java / Spring Boot）とデータベース（Oracle）を中心とした6ヶ月の実践的なIT課程を修了
+- 教育：SOLDESKにてWeb開発（Java / Spring Boot）とデータベース（Oracle）を中心とした6ヶ月のIT課程を修了
 - メール： [お問い合わせはこちら](mailto:telexesnook@gmail.com)  
 
 ## 使用技術
