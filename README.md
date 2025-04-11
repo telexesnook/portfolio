@@ -8,7 +8,6 @@
 - メール： [telexesnook@gmail.com](mailto:telexesnook@gmail.com)  
 - GitHub： [https://github.com/telexesnook](https://github.com/telexesnook)  
 
----
 
 ## 使用技術
 
@@ -18,7 +17,6 @@
 - MyBatis 
 - Git / GitHub
 
----
 
 ## プロジェクト
 
