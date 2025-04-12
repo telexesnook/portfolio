@@ -30,8 +30,8 @@ KOYOIは?
 ### ◾ デザインおよびアイデア共有
 - Figma（UI設計）  
 - Notion（タスク・仕様管理）  
-- Illustrator / Photoshop（이미지 제작・편집）
-
+- Illustrator / Photoshop
+  
 ### ◾ 言語・フロントエンド
 - HTML / CSS / JavaScript  
 - JSP
