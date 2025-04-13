@@ -4,7 +4,8 @@
 
 - 氏名：宣慧潤（ソン・ヘユン）
 - 学歴：徳成女子大学 日本語日本文学科 卒業（2017年8月）
-- 教育：SOLDESKにてWeb開発（Java / Spring Boot）とデータベース（Oracle）を中心とした6ヶ月のIT課程を修了
+- 教育：韓国のIT教育機関SOLDESKにて、Web開発（Java / Spring Boot）とデータベース（Oracle）を中心とした  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6ヶ月間のIT課程を修了
 - メール： [お問い合わせはこちら](mailto:telexesnook@gmail.com)  
 
 ## 使用技術
@@ -17,13 +18,13 @@
 
 ## プロジェクト
 
-### 1. [DANGS](./dangs)
+### 1. [Dangs](./dangs)
 保護犬の入養やペット用品の取引、コミュニティ機能を一つにまとめた、統合型Webプラットフォーム
 
 - 開発期間：2025年1月（3週間）  
 - チーム構成：5人
 
-詳細は [DANGS/README.md](./dangs/README.md) をご覧ください。
+詳細は [Dangs/README.md](./dangs/README.md) をご覧ください。
 
 ### 2. [Koyoi](./koyoi)
 AIを活用したメンタルヘルスケアWebアプリケーション
