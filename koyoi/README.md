@@ -61,4 +61,25 @@ KOYOIは?
 ## その他
 
 - デモ動画（後日追加予定）  
-- スクリーンショット準備中 
+- スクリーンショット
+
+### スクリーンショット
+
+#### メインページ  
+
+![メインページ](./images/main-page1.png)
+![メインページ](./images/main-page2.png)
+![メインページ](./images/main-announcement.png)
+
+#### お知らせページ
+
+![お知らせページ](./images/announcement-page.png)
+![お知らせ詳細ページ](./images/announcement-detail.png)
+
+#### 管理者ページ  
+
+![ユーザー一覧](./images/user-list.png)
+![カウンセラー一覧](./images/counselor-list.png)
+![ユーザー詳細](./images/user-detail.png)
+![お知らせ一覧](./images/announcement-list.png)
+![お知らせ登録](./images/announcement-create.png)
